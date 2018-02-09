@@ -199,6 +199,7 @@ RUN set -xe \
 		--enable-sysvsem \
 		--enable-inline-optimization \
 		--with-curl \
+		--with-freetype \
 		--with-curlwrappers \
 		--enable-mbregex \
 		--enable-mbstring \
